@@ -71,5 +71,5 @@ class App:
 
 
 if __name__ == '__main__':
-    App = App()
-    App.execute()
+    YoutubeDownloader = App()
+    YoutubeDownloader.execute()
